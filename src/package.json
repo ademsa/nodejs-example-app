@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-example-app",
+  "version": "0.1.0",
+  "description": "Node.js example app",
+  "main": "index.js",
+  "keywords": [
+    "node",
+    "nodejs",
+    "example",
+    "app"
+  ],
+  "author": "ademsa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
